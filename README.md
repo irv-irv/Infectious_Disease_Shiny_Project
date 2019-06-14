@@ -63,8 +63,8 @@ output: html_document
  [Infectious Disease Model Shiny App](https://irv-irv.shinyapps.io/Infectious_Disease_Model/)
     
 # Expected Output
-  - As the user changes the different parameters, the graph on the right will change. 
-  - The three lines that are shown on the graph correlate to the parameters that the user can  manipulate.
+  - As the user changes the different parameters, the graph on the left will change. 
+  - The three lines that are shown on the graph correlate to SIR. S is the number of people susceptible to the diesease, I is the number of people infected by the disease and R is the number of people Resistant/Recovered from the disease. Adding all these is equal to the total population.
   
 # Authors
 
