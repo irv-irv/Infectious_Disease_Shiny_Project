@@ -1,6 +1,10 @@
 ---
 title: "Infectious Disease Model"
+<<<<<<< HEAD
 author: "Kyro Grace, kgrace23@ucla.edu Irving Angeles, iangeles27@ucla.edu"
+=======
+author: "Kyro Grace,keytro@ucla.edu, Irving Angeles"
+>>>>>>> cd1e722f37f672f8422afa9da2f4d6375cfeddcf
 date: "5/29/2019"
 output: html_document
 ---
@@ -86,4 +90,9 @@ output: html_document
   - Gaurav Kandlikar for checking over our shiny app R code and helping us fix some errors in the R code to allow the output of the graph to be scientifically accurate. 
   
 # References
+<<<<<<< HEAD
   - Stevens, H. Henry. 2009. A Primer of Ecology in R. Oxford, OH. Springer.
+=======
+  - Stevens, H. Henry. 2009. A Primer of Ecology in R. Oxford, OH. Springer.
+  
+>>>>>>> cd1e722f37f672f8422afa9da2f4d6375cfeddcf
