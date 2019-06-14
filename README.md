@@ -68,12 +68,11 @@ output: html_document
   
 # Authors
 
-    Kyro Grace 
+    Kyro Grace kgrace23@ucla.edu
       -Associate of Science in Biology and Chemistry
       -Bachelor of Science in Biology, expected in June 2020, UCLA
     
-    Irving Angeles
-    - iangeles27@ucla.edu
+    Irving Angeles iangeles27@ucla.edu
      -Bachelor of Science in Environmental Science expected in June 2019
     
     
