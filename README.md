@@ -74,7 +74,9 @@ output: html_document
     
     Irving Angeles iangeles27@ucla.edu
      -Bachelor of Science in Environmental Science expected in June 2019
-    
+# Citing
+
+Citing Infectious_Disease_Shiny_Proejct DOI: 10.5281/zenodo.3246580
     
 # Acknowledgements
 
