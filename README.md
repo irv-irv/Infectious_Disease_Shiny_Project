@@ -7,10 +7,13 @@ output: html_document
 
 # Infectious Disease Model Introduction
   - The infectious Disease Model is a dynamic systems model that looks at three state variables 
-  regarding both fatal and non-fatal diseases and see hows these variables change over time. The three state variables include infection rate, susceptibility rate, and resistance/removal rate of individuals. 
+  regarding both fatal and non-fatal diseases and see how these variables change over time. The three state variables include infection rate, susceptibility rate, and resistance/removal rate of individuals. The user should notice that as the infection rate increases over time, the susceptibility rate will decrease due to the fact that more people have become infected, and therefore there are less individuals who are susceptible. After some time has been allotted, the recovered/resistant/removed rate should increase as the amount of individuals who either have recovered, passed away, or became resistant to the disease have increased in number. In other words, at the start of the disease, there should be no/few recovered, a smaller number of the population should be infected, and the majority of the population should be susceptibility. After enough time has past (this depends on the kind of disease), the number of susceptible and infected should go down and the majority of the population should be recovered/removed. 
+
+
 
 # Program Justification 
-  - This application allows the user to look at specific diseases that they might be studying and map the effects of that disease to this model. The infectious disease model and in turn, this application, takes into account both fatal and non-fatal diseases which means that it allows for a wide-range of diseases to be mapped out under this model. 
+  - This application allows the user to look at specific diseases that they might be studying and map the effects of that disease to this model. The infectious disease model and in turn, this application, takes into account both fatal and non-fatal diseases which means that it allows for a wide-range of diseases to be mapped out under this model. Therefore users who want to model diseases such as ebola (fatal) or chicken pox (non-fatal) can do so using this shiny app model.
+
  
   
 # Three State Variables (Program Workflow)
@@ -53,8 +56,11 @@ output: html_document
       2. load(deSolve)
         a. deSolve is a pakcage that allows you to solve differential equations that might be in your model. 
 
-# How to Run Program
-   [Infectious Disease Model Shiny App](https://irv-irv.shinyapps.io/Infectious_Disease_Model/)
+#  Instructions
+	 Click on the following Link and the shiny app should appear. 
+	The parameters and the graph for the infectious disease model will appear.
+	The user can change the parameters and the graph will change accordingly. 
+ [Infectious Disease Model Shiny App](https://irv-irv.shinyapps.io/Infectious_Disease_Model/)
     
 # Expected Output
   - As the user changes the different parameters, the graph on the right will change. 
