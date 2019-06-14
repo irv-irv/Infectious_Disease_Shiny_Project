@@ -1,7 +1,10 @@
 The following is an example of the expected outputs when the parameters are changed
 Example 1:
+
 Total Population
+
 10000 > 1000 > 100 > 10 > 1
+
 <img width="1137" alt="Screenshot 2019-06-13 00 07 44" src="https://user-images.githubusercontent.com/49182927/59482284-1b04b580-8e1d-11e9-8de6-2a00d155937d.png">
 <img width="1132" alt="Screenshot 2019-06-13 00 07 46" src="https://user-images.githubusercontent.com/49182927/59482288-1dffa600-8e1d-11e9-883c-15a4fd1209db.png">
 <img width="1133" alt="Screenshot 2019-06-13 00 07 48" src="https://user-images.githubusercontent.com/49182927/59482290-20fa9680-8e1d-11e9-94d9-340a786baf04.png">
