@@ -1,6 +1,6 @@
 ---
 title: "Infectious Disease Model"
-author: "Kyro Grace, Irving Angeles"
+author: "Kyro Grace,keytro@ucla.edu, Irving Angeles"
 date: "5/29/2019"
 output: html_document
 ---
