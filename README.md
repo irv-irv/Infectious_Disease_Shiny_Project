@@ -24,18 +24,20 @@ output: html_document
   - Transmission coecient (β) → describes the instantaneous rate at which the number of infected hosts increases per infected individual.
   - Resitance Rate per Infected Individual (γ) → Individuals become resistant to this disease at the constant per rate, γ. 
     
-    ![Formula](Infectious Disease Model Images/Screenshot (22).png)
+    ![Formula]
+    <img width="352" alt="Screenshot 2019-06-13 20 36 30" src="https://user-images.githubusercontent.com/49182927/59481872-058e8c00-8e1b-11e9-9cb6-1ee46265d6bf.png">
     
     
     
     
+  [Figure 1]
+  ![Screenshot (19)](https://user-images.githubusercontent.com/49182927/59481693-27d3da00-8e1a-11e9-9bf2-6e385d8eba7f.png)
     
+  [Figure 2]
+  ![Screenshot (21)](https://user-images.githubusercontent.com/49182927/59481696-2bfff780-8e1a-11e9-90e3-0bd28c91d46f.png)
     
-  ![Figure 1](Infectious Disease Model Images/Screenshot (19).png)
-    
-  ![Figure 2](Infectious Disease Model Images/Screenshot (20).png)
-    
-  ![Figure 3](Infectious Disease Model Images/Screenshot (21).png)
+  [Figure 3]
+  ![Screenshot (20)](https://user-images.githubusercontent.com/49182927/59481704-2f937e80-8e1a-11e9-9b71-c97b1e69d273.png)
     
     
     
