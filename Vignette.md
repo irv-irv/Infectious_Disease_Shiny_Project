@@ -1,4 +1,5 @@
-The following is an example of the expected outputs when the parameters are changed
+The following is an example of the expected outputs when the parameters are changed.
+
 Example 1:
 
 Total Population
