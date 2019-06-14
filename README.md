@@ -73,6 +73,7 @@ output: html_document
       -Bachelor of Science in Biology, expected in June 2020, UCLA
     
     Irving Angeles
+    - iangeles27@ucla.edu
      -Bachelor of Science in Environmental Science expected in June 2019
     
     
