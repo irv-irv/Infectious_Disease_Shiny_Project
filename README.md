@@ -54,7 +54,7 @@ output: html_document
       1. load(shiny)
         a. Shiny is a package that allows you to make a formula interactive. 
       2. load(deSolve)
-        a. deSolve is a pakcage that allows you to solve differential equations that might be in your model. 
+        a. deSolve is a package that allows you to solve differential equations that might be in your model. 
 
 #  Instructions
 	 Click on the following Link and the shiny app should appear. 
@@ -87,3 +87,8 @@ output: html_document
   
 # References
   - Stevens, H. Henry. 2009. A Primer of Ecology in R. Oxford, OH. Springer.
+  - Karline Soetaert, Thomas Petzoldt, R. Woodrow Setzer (2010). Solving Differential
+  Equations in R: Package deSolve. Journal of Statistical Software, 33(9), 1--25. URL
+  http://www.jstatsoft.org/v33/i09/ DOI 10.18637/jss.v033.i09
+- Winston Chang, Joe Cheng, JJ Allaire, Yihui Xie and Jonathan McPherson (2019). shiny:
+  Web Application Framework for R. R package version 1.3.2. http://shiny.rstudio.com
